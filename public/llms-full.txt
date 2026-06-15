@@ -2,13 +2,13 @@
 
 BlocsTov is a YouTube-style video platform dedicated exclusively to Roblox content. The site aggregates and displays Roblox-related YouTube videos in one place, creating a focused community hub for Roblox fans. The brand identity draws from gaming culture and the Roblox universe, with a youthful, energetic vibe targeting players and fans of the popular online game.
 
-Source: https://bloxtub-1a527d62.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו עולם שלם של סרטוני רובלוקס — BLOXTUB
 
-URL: https://bloxtub-1a527d62.zappy5.app
+URL: https://example.com
 Description: פלטפורמת הווידאו המובילה לגיימינג שכולה רובלוקס! צפו באוספי סרטוני רובלוקס בעברית, גלו יוצרים חדשים והפכו לחלק מקהילת גיימרים תוססת. הכנסו עכשיו והתחילו לצפות!
 
 גלו עולם שלם של סרטוני רובלוקס — BLOXTUB
@@ -448,7 +448,7 @@ Building
 
 ## צפו במיטב סרטוני רובלוקס עכשיו — BLOXTUB
 
-URL: https://bloxtub-1a527d62.zappy5.app/videos
+URL: https://example.com/videos
 Description: מאגר ענק של סרטוני רובלוקס מעודכנים מחכה לכם! מצאו בקלות סרטוני גיימינג מצחיקים, טיפים למשחק והרפתקאות וירטואליות. כל התוכן האהוב עליכם, במקום אחד וקל לגלילה.
 
 צפו במיטב סרטוני רובלוקס עכשיו — BLOXTUB
@@ -896,7 +896,7 @@ Description: מאגר ענק של סרטוני רובלוקס מעודכנים �
 
 ## היוצרים הכי חמים ברובלוקס מחכים — BLOXTUB
 
-URL: https://bloxtub-1a527d62.zappy5.app/creators
+URL: https://example.com/creators
 Description: הכירו את כוכבי היוטיוב של עולם הרובלוקס! דפדפו בין פרופילי יוצרים מובילים, צפו בתוכן הבלעדי שלהם וגלו את הקולות החדשים שמעצבים את קהילת הגיימינג. התחילו לעקוב עוד היום!
 
 היוצרים הכי חמים ברובלוקס מחכים — BLOXTUB
@@ -1298,7 +1298,7 @@ Description: הכירו את כוכבי היוטיוב של עולם הרובל�
 
 ## דברו איתנו, קהילת הרובלוקס מחכה — BLOXTUB
 
-URL: https://bloxtub-1a527d62.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לכם שאלה, רעיון או סתם בא לכם להגיד שלום? צרו קשר עם צוות BLOXTUB! אנחנו תמיד שמחים לשמוע מיוצרים וגיימרים שרוצים לשדרג את חוויית סרטוני הרובלוקס. בואו נדבר!
 
 דברו איתנו, קהילת הרובלוקס מחכה — BLOXTUB
@@ -1688,7 +1688,7 @@ Description: יש לכם שאלה, רעיון או סתם בא לכם להגיד
 
 ## מדיניות פרטיות
 
-URL: https://bloxtub-1a527d62.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1952,7 +1952,7 @@ BLOXTUB ("החברה", "אנו", "שלנו") מחויבת להגן על פרטי
 
 ## הצהרת נגישות
 
-URL: https://bloxtub-1a527d62.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2225,7 +2225,7 @@ BLOXTUB מחויבת להנגיש את השירותים לכלל הציבור. �
 
 ## תנאי שימוש
 
-URL: https://bloxtub-1a527d62.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

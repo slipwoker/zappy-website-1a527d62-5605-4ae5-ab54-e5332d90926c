@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://bloxtub-1a527d62.zappy5.app
+https://example.com
 פלטפורמת הווידאו המובילה לגיימינג שכולה רובלוקס! צפו באוספי סרטוני רובלוקס בעברית, גלו יוצרים חדשים והפכו לחלק מקהילת גיימרים תוססת. הכנסו עכשיו והתחילו לצפות!
 
 ### סרטונים
-https://bloxtub-1a527d62.zappy5.app/videos
+https://example.com/videos
 מאגר ענק של סרטוני רובלוקס מעודכנים מחכה לכם! מצאו בקלות סרטוני גיימינג מצחיקים, טיפים למשחק והרפתקאות וירטואליות. כל התוכן האהוב עליכם, במקום אחד וקל לגלילה.
 
 ### יוצרים
-https://bloxtub-1a527d62.zappy5.app/creators
+https://example.com/creators
 הכירו את כוכבי היוטיוב של עולם הרובלוקס! דפדפו בין פרופילי יוצרים מובילים, צפו בתוכן הבלעדי שלהם וגלו את הקולות החדשים שמעצבים את קהילת הגיימינג. התחילו לעקוב עוד היום!
 
 ### צור קשר
-https://bloxtub-1a527d62.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה, רעיון או סתם בא לכם להגיד שלום? צרו קשר עם צוות BLOXTUB! אנחנו תמיד שמחים לשמוע מיוצרים וגיימרים שרוצים לשדרג את חוויית סרטוני הרובלוקס. בואו נדבר!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://bloxtub-1a527d62.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://bloxtub-1a527d62.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://bloxtub-1a527d62.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://bloxtub-1a527d62.zappy5.app/contact
-- Endpoint: https://bloxtub-1a527d62.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ Video Platform / Gaming Content
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://bloxtub-1a527d62.zappy5.app/sitemap.xml
-- Robots: https://bloxtub-1a527d62.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://bloxtub-1a527d62.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
