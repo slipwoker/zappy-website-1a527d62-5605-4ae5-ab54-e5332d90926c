@@ -1,0 +1,78 @@
+# BLOXTUB — Generative Engine Optimization Map
+
+> BlocsTov is a YouTube-style video platform dedicated exclusively to Roblox content. The site aggregates and displays Roblox-related YouTube videos in one place, creating a focused community hub for Roblox fans. The brand identity draws from gaming culture and the Roblox universe, with a youthful, energetic vibe targeting players and fans of the popular online game.
+
+---
+
+## Pages
+
+### בית
+https://bloxtub-1a527d62.zappy5.app
+פלטפורמת הווידאו המובילה לגיימינג שכולה רובלוקס! צפו באוספי סרטוני רובלוקס בעברית, גלו יוצרים חדשים והפכו לחלק מקהילת גיימרים תוססת. הכנסו עכשיו והתחילו לצפות!
+
+### סרטונים
+https://bloxtub-1a527d62.zappy5.app/videos
+מאגר ענק של סרטוני רובלוקס מעודכנים מחכה לכם! מצאו בקלות סרטוני גיימינג מצחיקים, טיפים למשחק והרפתקאות וירטואליות. כל התוכן האהוב עליכם, במקום אחד וקל לגלילה.
+
+### יוצרים
+https://bloxtub-1a527d62.zappy5.app/creators
+הכירו את כוכבי היוטיוב של עולם הרובלוקס! דפדפו בין פרופילי יוצרים מובילים, צפו בתוכן הבלעדי שלהם וגלו את הקולות החדשים שמעצבים את קהילת הגיימינג. התחילו לעקוב עוד היום!
+
+### צור קשר
+https://bloxtub-1a527d62.zappy5.app/contact
+יש לכם שאלה, רעיון או סתם בא לכם להגיד שלום? צרו קשר עם צוות BLOXTUB! אנחנו תמיד שמחים לשמוע מיוצרים וגיימרים שרוצים לשדרג את חוויית סרטוני הרובלוקס. בואו נדבר!
+
+## Legal & Policy
+
+### Privacy Policy
+https://bloxtub-1a527d62.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://bloxtub-1a527d62.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://bloxtub-1a527d62.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://bloxtub-1a527d62.zappy5.app/contact
+- Endpoint: https://bloxtub-1a527d62.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About BLOXTUB
+BlocsTov is a YouTube-style video platform dedicated exclusively to Roblox content. The site aggregates and displays Roblox-related YouTube videos in one place, creating a focused community hub for Roblox fans. The brand identity draws from gaming culture and the Roblox universe, with a youthful, energetic vibe targeting players and fans of the popular online game.
+
+## Target Audience
+- גיימרים ואוהדי רובלוקס
+- יוצרי תוכן רובלוקס
+- הורים לילדים גיימרים
+
+## Industry
+Video Platform / Gaming Content
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://bloxtub-1a527d62.zappy5.app/sitemap.xml
+- Robots: https://bloxtub-1a527d62.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://bloxtub-1a527d62.zappy5.app/llms-full.txt
