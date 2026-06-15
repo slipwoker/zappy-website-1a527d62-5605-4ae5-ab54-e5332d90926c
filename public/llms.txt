@@ -40,7 +40,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: tiranazavar77@gmail.com
+- Phone: +972555649324
+- Phone (tel): tel:+972555649324
 
 ### Contact form
 - URL: https://example.com/contact
